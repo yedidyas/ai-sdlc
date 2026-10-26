@@ -4,7 +4,7 @@ An open reference library on how to build a software development lifecycle that 
 
 More than 1,300 sources are sorted by topic, each with a short summary of what it says and why it matters: docs, papers, talks, engineering blogs, case studies and practitioner threads.
 
-It started as the research behind the Conf42 Platform Engineering 2026 talk **"Before You Pick an Agent Orchestrator: What I Learned Wiring a Self-Driving SDLC"**.
+It started as the research behind the talk **"Before You Pick an Agent Orchestrator: What I Learned Wiring a Self-Driving SDLC"**.
 
 ## Where to go
 

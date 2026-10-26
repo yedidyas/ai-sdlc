@@ -1,8 +1,7 @@
 # Resources from the talk
 
-Everything cited in **"Before You Pick an Agent Orchestrator: What I Learned Wiring a Self-Driving SDLC"** (Conf42 Platform Engineering 2026), grouped by the five parts of the talk.
+Everything cited in **"Before You Pick an Agent Orchestrator: What I Learned Wiring a Self-Driving SDLC"**, grouped by the five parts of the talk.
 
-- Talk page: [conf42.com](https://www.conf42.com/Platform_Engineering_2026_Yedidya_Schwartz_orchestrator_sdlc_agent)
 - Want to go deeper on any topic? The [library](../library/README.md) has 21 notes and more than a thousand sources.
 
 "(vendor)" marks an author who sells a related product. Read those as marketing until shown otherwise.
